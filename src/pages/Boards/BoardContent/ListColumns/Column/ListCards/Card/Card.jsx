@@ -17,7 +17,7 @@ function Card({ temporaryHideMedia }) {
         overflow: 'unset'
       }}>
         <CardContent sx={{ p: 1.5, '&:last-child': { p: 1.5 } }}>
-          <Typography>Card 1</Typography>
+          <Typography>Card 2</Typography>
         </CardContent>
       </MuiCard>
     )
